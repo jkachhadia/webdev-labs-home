@@ -89,5 +89,16 @@ hr{height: 5px;}
 	font-size:60px;
 	padding: 40px;
 }
+.jj{
+	color:black;
+	text-align: center;
+}
+.eve{
+	background-color: #34495E;
+	padding: 100px;
+}
+hr.ab{
+	width: 200px;
+}
 
 
