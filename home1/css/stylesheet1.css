@@ -38,7 +38,10 @@ div.end{
 div.jay{
 	padding: 20px;
 }
-
+div.icon{
+	font-size:30px;
+	padding: 10px;
+}
 
 }
 .container-fluid{ 
@@ -47,7 +50,7 @@ div.jay{
     font-family: Lucida;
 }
 .jk1{text-shadow: 2px 1px black;
-	font-size: 60px;
+	font-size: 56px;
 }
 .border{
 	outline: 5px solid  #E67E22; 
@@ -82,6 +85,9 @@ hr{height: 5px;}
 .jk3{
 	font-size:20px;
 }
-
+.icon{
+	font-size:60px;
+	padding: 40px;
+}
 
 
