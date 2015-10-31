@@ -1,4 +1,4 @@
-First practice summer vacation project
+First practice in the summer vacation project
 
-Use of html, css, and bootstrap framework.
+Uses of html, css, and bootstrap framework.
 
